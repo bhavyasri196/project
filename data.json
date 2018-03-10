@@ -1,0 +1,40 @@
+{
+  "basics":{
+    "photo":"download.jpg",
+    "name":"bhavya sri",
+    "phone":"9966563171",
+    "email":"bhavyasri.kakara196@gmail.com",
+    "Address":"(d/o)raju,ktp"
+  },
+  "education":[{
+    "course":"B.Tech(computer science and engineering)",
+    "institute":"CR Reddy enginerring college",
+    "data":["2015-2019","75%"]
+  },
+
+  {
+    "course":"Inter(MPC)",
+    "institute":"apt College",
+    "data":["2013-2015","75%"]
+  },
+  {
+    "course":"ssc",
+    "Institute" :"jnv high school",
+"data":["2012-2013","80%"]
+  }
+],
+"Skills":[
+  {
+    "name":"language",
+    "data":["C","JAVA","PHP"]
+  },
+  {
+    "name":"Web Technologies",
+    "data":["HTML","CSS","PHP"]
+  },
+  {
+    "name":"OS",
+    "data":["windows","Linux","Unix"]
+    }
+]
+}
